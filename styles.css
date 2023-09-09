@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(184, 183, 183);
+  font-family: "Roboto", sans-serif;
+}
+
+img {
+  border: 1px solid white;
+  border-radius: 700px;
+  width: 80px;
+}
+
+span{
+    color: rgb(9, 9, 143);
+}
